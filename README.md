@@ -34,11 +34,6 @@
 
 ## 🚀 My Projects
 
-### 🌾 AgroLink Global
-A MERN-based B2B marketplace platform connecting farmers and exporters with international buyers. Built as lead engineer on a 5-person Agile Scrum team.
-`React` `Node.js` `Express` `MongoDB`
-
-[🔗 View Project](#) &nbsp;|&nbsp; [🌐 Live Demo](#)
 
 ### 💻 i-Computers
 A MERN-based computer shop management system with Google OAuth authentication and JWT-secured sessions.
@@ -49,6 +44,12 @@ A MERN-based computer shop management system with Google OAuth authentication an
 ### 💇 Salon Leo
 A salon booking and management web app with a PWA experience and integrated payments.
 `Next.js` `TypeScript` `PostgreSQL` `Shadcn UI` `AWS S3` `PayHere`
+
+[🔗 View Project](#) &nbsp;|&nbsp; [🌐 Live Demo](#)
+
+### 🎬 Reelora
+A film explorer web app built with vanilla JavaScript, fetching movie data from the OMDb API.
+`JavaScript` `HTML` `CSS` `OMDb API`
 
 [🔗 View Project](#) &nbsp;|&nbsp; [🌐 Live Demo](#)
 
