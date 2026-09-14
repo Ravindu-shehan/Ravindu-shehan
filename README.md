@@ -66,7 +66,7 @@ TypeScript, with PostgreSQL** as the relational database.
 </td>
 <td width="50%">
 
-### 💻 i-Computers – Computer Shop Management System
+### 💻 I-Computers – Computer Shop Management System
 
 Full-stack e-commerce and inventory management system for a computer hardware/accessories shop, built
 using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** .
