@@ -46,7 +46,7 @@
 <tr>
 <td width="50%">
 
-### 🌐Saloon appointment manage System
+### 🌐 Saloon appointment manage System
 
 Designed and developed a full-stack appointment management system for a salon business using **Next.js, and
 TypeScript, with PostgreSQL** as the relational database.
