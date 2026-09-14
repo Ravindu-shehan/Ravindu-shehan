@@ -46,18 +46,19 @@
 <tr>
 <td width="50%">
 
-### 🗓️ AI Study & Assignment Planner
+### 🌐Saloon appointment manage System
 
-An AI-powered study planner built with **Python, Streamlit and Google Gemini AI** that converts syllabus, assignment guidelines or course documents into personalized day-by-day study roadmaps.
+Designed and developed a full-stack appointment management system for a salon business using **Next.js, and
+TypeScript, with PostgreSQL** as the relational database.
 
 <br>
 
-<a href="https://github.com/dusharaekanayaka0314-coder/AI-Study-Assignment-Planner">
+<a href="https://github.com/Ravindu-shehan/neo-saloon-client">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
 <a href="https://ai-study-assignment-planner-mbffdxwpcveidcyqodwaz6.streamlit.app">
-<img src="https://img.shields.io/badge/Live%20Demo-38E1C6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </a>
 
 <br><br>
@@ -65,19 +66,19 @@ An AI-powered study planner built with **Python, Streamlit and Google Gemini AI*
 </td>
 <td width="50%">
 
-### 📚 AI Study Assistant
+### 💻 i-Computers – Computer Shop Management System
 
-An AI-powered study assistant built with **Python, Streamlit and Google Gemini AI** to explain topics, summarise content, generate MCQs and create flashcards.
+Full-stack e-commerce and inventory management system for a computer hardware/accessories shop, built
+using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** .
 
 <br>
 
-<a href="https://github.com/dusharaekanayaka0314-coder/AI-study-assistant">
+<a href="https://github.com/Ravindu-shehan/i-computers-frontend">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
 <a href="https://ai-study-assistant-3g7jknr9fkbx7bnejv4x6n.streamlit.app">
-<img src="https://img.shields.io/badge/Live%20Demo-38E1C6?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
+
 
 <br><br>
 
@@ -86,132 +87,24 @@ An AI-powered study assistant built with **Python, Streamlit and Google Gemini A
 <tr>
 <td width="50%">
 
-### 💰 AI Expense Analyzer
+### 🎬 Reelora – Film Explorer Web Application
 
-An AI-powered personal expense tracking and spending analysis app built with **Python, Streamlit, Pandas and Google Gemini AI**, with budget tracking and spending visualizations.
+Built a film discovery web app using  **HTML5, CSS3, and Advanced JavaScript**integrated with the **OMDb API**.
 
 <br>
 
-<a href="https://github.com/dusharaekanayaka0314-coder/ai-expense-analyzer">
+<a href="https://github.com/Ravindu-shehan/Film-Explore-site">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
-<a href="https://ai-expense-analyzer-9joxxnw2k3uclkhd63iqwi.streamlit.app">
-<img src="https://img.shields.io/badge/Live%20Demo-38E1C6?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
+
+
 
 <br><br>
 
 </td>
 <td width="50%">
 
-### 🧮 Java GUI Calculator
-
-A simple desktop calculator built using **Java Swing**.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/Java-GUI-Calculator">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✅ Java To-Do List App
-
-A desktop task management application developed with **Java Swing**.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/Java-ToDo-List-App">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-</td>
-<td width="50%">
-
-### 💰 Java Swing Billing System
-
-A billing application with **MySQL database connectivity, invoicing and CRUD operations**.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/Java-Swing-Billing-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌸 Flower Shop Website
-
-A simple flower shop concept website developed using **HTML & CSS**.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/flower-shop-website">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-</td>
-<td width="50%">
-
-### 🎓 University Enrollment System
-
-A university enrollment system developed to practice **Data Structures & Algorithms** and Java GUI development.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/University-Enrollment-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Java Hospital Management System
-
-A Java-based hospital management application developed to practice **Object-Oriented Programming and GUI development**.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/Java-Hospital-Management-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-</td>
-<td width="50%">
-
-### 🐍 Snake Game
-
-A browser-based Snake Game built using **HTML, CSS & JavaScript**.
-
-<br>
-
-<a href="https://github.com/dusharaekanayaka0314-coder/snake-game">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
 
 </td>
 </tr>
@@ -244,9 +137,9 @@ A browser-based Snake Game built using **HTML, CSS & JavaScript**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dusharaekanayaka0314-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ravindu-shehan-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dusharaekanayaka0314-coder&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-shehan-coder&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -264,12 +157,12 @@ A browser-based Snake Game built using **HTML, CSS & JavaScript**.
 
 <div align="center">
 
-<a href="https://github.com/dusharaekanayaka0314-coder">
+<a href="https://github.com/Ravindu-shehan-coder">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/dushara-ekanayaka-42a6a927a">
+<a href="https://www.linkedin.com/in/ravindu-shehan-54179b355">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
